@@ -2,61 +2,115 @@
 
 Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 
+- Adeptus mechanicus : Skitarius / Warhammer 40k
 - Akira, réédition grand format / Volumes 2 3 4 5
 - Belles de nuit / Olivier Ledroit
+- Carcharodons : La dîme de sang / Warhammer 40k
+- Carcharodons : La noirceur extérieure / Warhammer 40k
+- Castellan / Warhammer 40k
 - Chroniques de l'hérésie / Warhammer 40k HH
+- Corax / Warhammer 40k HH Primarchs
+- Dans la loyauté et la foi / Warhammer 40k
 - Délivrance perdue / Warhammer 40k HH
 - Esclaves des tenèbres / Warhammer 40k HH
+- Fabius bile, Le seigneur des clones / Warhammer 40k
 - Félon / Warhammer 40k HH
 - Fins de siècles / Bilal
 - Fulgrim / Warhammer 40k HH
+- Guerrier fantôme / Warhammer 40k
 - Imperium secundus / Warhammer 40k HH
+- Jaghataï khan / Warhammer 40k HH Primarchs
+- Khârn : Le dévoreur de mondes / Warhammer 40k
 - L'âge des tenèbres / Warhammer 40k HH
 - L'ange exterminatus / Warhammer 40k HH
+- L'architecte du destin / Warhammer 40k
+- L'armure de mépris / Warhammer 40k
 - L'ascension d'horus x 2 / Warhammer 40k HH
 - L'épée de cristal / Intégrale
 - L'héritage de la trahison / Warhammer 40k HH
+- L'héritage des wulfen / Warhammer 40k
+- L'oeil de Médusa / Warhammer 40k
 - L'oeil de terra / Warhammer 40k HH
 - La bataille de Calth / Warhammer 40k HH
 - La bataille de Molech / Warhammer 40k HH
 - La dague enfouie / Warhammer 40k HH
 - La damnation de pythos / Warhammer 40k HH
 - La fin de la croisade / Warhammer 40k HH / Recueil 1 2 3 HH
+- La foi et le feu / Warhammer 40k
 - La fuite de l'Eisenstein / Warhammer 40k HH
 - La galaxie en flammes / Warhammer 40k HH
+- La griffe d'horus / Warhammer 40k
 - La guerre éternelle / Warhammer 40k HH
 - La guerre des ombres / Warhammer 40k HH
+- La lame du roi / Warhammer 40k
+- La lance de l'empereur / Warhammer 40k
+- La légion de l'empereur / Warhammer 40k
+- La légion des damnés / Warhammer 40k
+- La légion noire / Warhammer 40k
 - La mort des titans / Warhammer 40k HH
-- La tempête de la ruine / Warhammer 40k HH
 - La quête de l'oiseau du temps / Intégrale
+- La tempête de la ruine / Warhammer 40k HH
+- La victoire : Première partie (Gaunt) / Warhammer 40k
 - La vieille terre / Warhammer 40k HH
+- La voie de l'archon / Warhammer 40k
+- La voie de l'errant / Warhammer 40k
+- La voie de l'incube / Warhammer 40k
+- La voie du guerrier / Warhammer 40k
+- La voie du prophète / Warhammer 40k
+- La voie du renégat / Warhammer 40k
+- La voix du Chaos (Gaunt) / Warhammer 40k
 - Le banni / tomes 1 & 2
+- Le chasseur d'âme / Warhammer 40k
 - Le chemin céleste / Warhammer 40k HH
+- Le marteau et l'enclume / Warhammer 40k
+- Le maître de guerre (Gaunt) / Warhammer 40k
 - Le maître de l'humanité / Warhammer 40k HH
 - Le monde de Faerie
+- Le pilleur de sang / Warhammer 40k
 - Le premier hérétique / Warhammer 40k HH
 - Le retour des anges / Warhammer 40k HH
 - Le roi écarlate / Warhammer 40k HH
+- Le traqueur des abîmes / Warhammer 40k
+- Le sang d'Iax / Warhammer 40k
 - Légion / Warhammer 40k HH
 - Les anges de caliban / Warhammer 40k HH
+- Les anges des ténèbres / Warhammer 40k
+- Les archives interdites : Trône-sarcophage / Warhammer 40k
 - Les dingodossiers / Gotlib
 - Les faux dieux / Warhammer 40k HH
 - Les fils de Lupercal / Warhammer 40k HH
+- Les frères du serpent / Warhammer 40k
+- Les lames de Damoclès / Warhammer 40k
 - Les morts oubliés / Warhammer 40k HH
 - Les primarques / Warhammer 40k HH
 - Le fléau du loup / Warhammer 40k HH
 - Les ombres de la traîtrise / Warhammer 40k HH
 - Les sambres
   - Artwork
+- Lion el'johnson / Warhammer 40k HH Primarchs
+- Lukas le trompeur / Warhammer 40k
+- Magos (Eisenhorn) / Warhammer 40k
 - Mechanicum / Warhammer 40k HH
+- Méphiston / Warhammer 40k
 - Némésis / Warhammer 40k HH
 - Olivier Ledroit Artwork
 - Pharos / Warhammer 40k HH
 - Prospéro brûle / Warhammer 40k HH
 - Rha lovely / Gotlib
 - Rha gnagna / Gotlib
+- Ravenor : Omnibus / Warhammer 40k
+  - Renaissance
+  - Rencontres
+  - Révélations
+- Requiem infernal / Warhammer 40k
 - Retour au mont deatfire / Warhammer 40k HH
 - Signus daemonicus / Warhammer 40k HH
+- Sombre impérirum / Warhammer 40k
+- Space marine conquests : Les cendres de Prospéro / Warhammer 40k
+- Space wolves omnibus / Warhammer 40k
+  - Grey hunter
+  - La griffe de Ragnar
+  - Space wolf
 - The sky, the art of final fantasy
 - Un millier de fils / Warhammer 40k HH
 - Vulkan est vivant / Warhammer 40k HH
