@@ -3,23 +3,32 @@
 Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 
 - Adeptus mechanicus : Skitarius / Warhammer 40k
+- Adeptus mechanicus : Tech-priest / Warhammer 40k
 - Akira, réédition grand format / Volumes 2 3 4 5
 - Belles de nuit / Olivier Ledroit
 - Carcharodons : La dîme de sang / Warhammer 40k
 - Carcharodons : La noirceur extérieure / Warhammer 40k
 - Castellan / Warhammer 40k
+- Chevaliers gris / Warhammer 40k
 - Chroniques de l'hérésie / Warhammer 40k HH
+- Corax / Warhammer 40k HH
 - Corax / Warhammer 40k HH Primarchs
+- Croisage et autres récits / Warhammer 40k
 - Dans la loyauté et la foi / Warhammer 40k
 - Délivrance perdue / Warhammer 40k HH
 - Esclaves des tenèbres / Warhammer 40k HH
 - Fabius bile, Le seigneur des clones / Warhammer 40k
+- Fabius bile, Primogenitor / Warhammer 40k
 - Félon / Warhammer 40k HH
+- Ferrus Manus / Warhammer 40k HH Primachs
 - Fins de siècles / Bilal
 - Fulgrim / Warhammer 40k HH
+- Fulgrim / Warhammer 40k HH Primarchs
+- Gardien de la lame-démon / Warhammer 40k
 - Guerrier fantôme / Warhammer 40k
 - Imperium secundus / Warhammer 40k HH
 - Jaghataï khan / Warhammer 40k HH Primarchs
+- Jain zar, la tempête du silence / Warhammer 40k
 - Khârn : Le dévoreur de mondes / Warhammer 40k
 - L'âge des tenèbres / Warhammer 40k HH
 - L'ange exterminatus / Warhammer 40k HH
@@ -47,6 +56,7 @@ Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 - La légion de l'empereur / Warhammer 40k
 - La légion des damnés / Warhammer 40k
 - La légion noire / Warhammer 40k
+- La mort d'Antagonis / Warhammer 40k HH
 - La mort des titans / Warhammer 40k HH
 - La quête de l'oiseau du temps / Intégrale
 - La tempête de la ruine / Warhammer 40k HH
@@ -60,8 +70,10 @@ Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 - La voie du renégat / Warhammer 40k
 - La voix du Chaos (Gaunt) / Warhammer 40k
 - Le banni / tomes 1 & 2
+- Le don de l'empereur / Warhammer 40k
 - Le chasseur d'âme / Warhammer 40k
 - Le chemin céleste / Warhammer 40k HH
+- Le culte du maçon de guerre / Warhammer 40k
 - Le marteau et l'enclume / Warhammer 40k
 - Le maître de guerre (Gaunt) / Warhammer 40k
 - Le maître de l'humanité / Warhammer 40k HH
@@ -71,7 +83,9 @@ Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 - Le retour des anges / Warhammer 40k HH
 - Le roi écarlate / Warhammer 40k HH
 - Le traqueur des abîmes / Warhammer 40k
+- Le tyran des mondes creux / Warhammer 40k
 - Le sang d'Iax / Warhammer 40k
+- Le sang du Phoenix / Warhammer 40k rulebooks
 - Légion / Warhammer 40k HH
 - Les anges de caliban / Warhammer 40k HH
 - Les anges des ténèbres / Warhammer 40k
@@ -87,23 +101,31 @@ Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 - Les ombres de la traîtrise / Warhammer 40k HH
 - Les sambres
   - Artwork
+- Les seigneurs de Fenris / Warhammer 40k
 - Lion el'johnson / Warhammer 40k HH Primarchs
+- Lorgar / Warhammer 40k HH Primarchs
+- Lucius, la lame exemplaire / Warhammer 40k
 - Lukas le trompeur / Warhammer 40k
+- Magnus le rouge / Warhammer 40k HH Primarchs
 - Magos (Eisenhorn) / Warhammer 40k
 - Mechanicum / Warhammer 40k HH
 - Méphiston / Warhammer 40k
 - Némésis / Warhammer 40k HH
 - Olivier Ledroit Artwork
+- Perturabo / Warhammer 40k HH Primarchs
 - Pharos / Warhammer 40k HH
+- Prétorien de Dorn / Warhammer 40k HH
 - Prospéro brûle / Warhammer 40k HH
-- Rha lovely / Gotlib
-- Rha gnagna / Gotlib
 - Ravenor : Omnibus / Warhammer 40k
   - Renaissance
   - Rencontres
   - Révélations
 - Requiem infernal / Warhammer 40k
+- Resurection, les guerres horusiennes / Warhammer 40k
 - Retour au mont deatfire / Warhammer 40k HH
+- Rha lovely / Gotlib
+- Rha gnagna / Gotlib
+- Roboute Guilliman / Warhammer 40k HH Primarchs
 - Signus daemonicus / Warhammer 40k HH
 - Sombre impérirum / Warhammer 40k
 - Space marine conquests : Les cendres de Prospéro / Warhammer 40k
