@@ -32,6 +32,7 @@ Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 - Khârn : Le dévoreur de mondes / Warhammer 40k
 - L'âge des tenèbres / Warhammer 40k HH
 - L'ange exterminatus / Warhammer 40k HH
+- L'ange de la nuit 1 2 (gros, ~cuir)
 - L'architecte du destin / Warhammer 40k
 - L'armure de mépris / Warhammer 40k
 - L'ascension d'horus x 2 / Warhammer 40k HH
