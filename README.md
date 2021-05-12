@@ -4,20 +4,61 @@ Afin de ne pas les racheter en double ; rangé par ordre alphabétique débile
 
 - Akira, réédition grand format / Volumes 2 3 4 5
 - Belles de nuit / Olivier Ledroit
+- Chroniques de l'hérésie / Warhammer 40k HH
+- Délivrance perdue / Warhammer 40k HH
+- Esclaves des tenèbres / Warhammer 40k HH
+- Félon / Warhammer 40k HH
 - Fins de siècles / Bilal
+- Fulgrim / Warhammer 40k HH
+- Imperium secundus / Warhammer 40k HH
+- L'âge des tenèbres / Warhammer 40k HH
+- L'ange exterminatus / Warhammer 40k HH
+- L'ascension d'horus x 2 / Warhammer 40k HH
 - L'épée de cristal / Intégrale
+- L'héritage de la trahison / Warhammer 40k HH
+- L'oeil de terra / Warhammer 40k HH
+- La bataille de Calth / Warhammer 40k HH
+- La bataille de Molech / Warhammer 40k HH
+- La dague enfouie / Warhammer 40k HH
+- La damnation de pythos / Warhammer 40k HH
+- La fin de la croisade / Warhammer 40k HH / Recueil 1 2 3 HH
+- La fuite de l'Eisenstein / Warhammer 40k HH
+- La galaxie en flammes / Warhammer 40k HH
+- La guerre éternelle / Warhammer 40k HH
+- La guerre des ombres / Warhammer 40k HH
+- La mort des titans / Warhammer 40k HH
+- La tempête de la ruine / Warhammer 40k HH
 - La quête de l'oiseau du temps / Intégrale
 - La vieille terre / Warhammer 40k HH
 - Le banni / tomes 1 & 2
+- Le chemin céleste / Warhammer 40k HH
+- Le maître de l'humanité / Warhammer 40k HH
 - Le monde de Faerie
+- Le premier hérétique / Warhammer 40k HH
+- Le retour des anges / Warhammer 40k HH
+- Le roi écarlate / Warhammer 40k HH
+- Légion / Warhammer 40k HH
+- Les anges de caliban / Warhammer 40k HH
 - Les dingodossiers / Gotlib
+- Les faux dieux / Warhammer 40k HH
+- Les fils de Lupercal / Warhammer 40k HH
+- Les morts oubliés / Warhammer 40k HH
+- Les primarques / Warhammer 40k HH
+- Le fléau du loup / Warhammer 40k HH
+- Les ombres de la traîtrise / Warhammer 40k HH
 - Les sambres
   - Artwork
 - Mechanicum / Warhammer 40k HH
 - Némésis / Warhammer 40k HH
 - Olivier Ledroit Artwork
 - Pharos / Warhammer 40k HH
+- Prospéro brûle / Warhammer 40k HH
 - Rha lovely / Gotlib
 - Rha gnagna / Gotlib
+- Retour au mont deatfire / Warhammer 40k HH
+- Signus daemonicus / Warhammer 40k HH
 - The sky, the art of final fantasy
+- Un millier de fils / Warhammer 40k HH
+- Vulkan est vivant / Warhammer 40k HH
 - Watchmen / Intégrale Absolute en couleur
+- White scars / Warhammer 40k HH
